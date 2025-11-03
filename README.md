@@ -25,29 +25,6 @@ I’m now focusing on **developing my technical and analytical skills** to trans
 - SQL-based data modeling  
 - Interactive Power BI reports  
 
----
-
-### 📂 Featured Projects  
-
-📘 **1. Customer Segmentation (RFM Analysis)**  
-**Tools:** Python, Pandas, Matplotlib  
-**Description:** Segmented customers based on purchase frequency, monetary value, and recency.  
-
-
-📗 **2. Sales Performance Dashboard – Power BI**  
-**Tools:** Power BI, Excel  
-**Description:** Performance analysis by product, region, and sales representative.  
-
-📙 **3. Data Analysis with PostgreSQL**  
-**Tools:** PostgreSQL  
-**Description:** Sales trend analysis using JOINs, CTEs, and Window Functions.  
-
-
-📒 **4. Data Cleaning & Visualization with Python**  
-**Tools:** Python, Pandas, Seaborn  
-**Description:** Cleaned missing values, performed outlier detection, and visualized key trends.  
-
----
 
 ### 📫 Contact Me  
 📧 arbazduygu@gmail.com  
