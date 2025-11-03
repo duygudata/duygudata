@@ -27,8 +27,7 @@ I’m now focusing on **developing my technical and analytical skills** to trans
 
 
 ### 📫 Contact Me  
-📧 arbazduygu@gmail.com  
-🔗 [LinkedIn Profile]([www.linkedin.com/in/duygu-arbaz-0a3692b1](https://www.linkedin.com/in/duygu-arbaz-0a3692b1/))  
+📧 arbazduygu@gmail.com   
 💡 Open to data analysis opportunities, collaborations, and continuous learning!  
 
 ---
