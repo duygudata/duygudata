@@ -10,10 +10,10 @@ I’m now focusing on **developing my technical and analytical skills** to trans
 ---
 
 ### 🧠 Technical Skills  
-**Data Analysis & Business Intelligence:** Power BI • Excel • EDA • KPI Analysis • RFM Segmentation  
-**Database Management:** PostgreSQL • SQL Query Optimization  
-**Programming & Automation:** Python (Pandas, NumPy, Matplotlib, Seaborn)(Beginner Level)
-**Reporting & Visualization:** Power BI • Excel Dashboards • Storytelling with Data  
+* **Data Analysis & Business Intelligence:** Power BI • Excel • EDA • KPI Analysis • RFM Segmentation  
+* **Database Management:** PostgreSQL • SQL Query Optimization  
+* **Programming & Automation:** Python (Pandas, NumPy, Matplotlib, Seaborn)(Beginner Level)
+* **Reporting & Visualization:** Power BI • Excel Dashboards • Storytelling with Data  
 
 ---
 
